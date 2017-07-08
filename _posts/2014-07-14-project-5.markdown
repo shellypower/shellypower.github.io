@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 5
+title: HTML&CSS
 date: 2014-07-14
 img: safe.png
 alt: image-alt
@@ -9,3 +10,4 @@ client: Start Bootstrap
 category: Web Development
 description: 这里是我学习HTML和CSS的地方，html是一种标签语言，是写网页的基础，css是层叠样式表，丰富网站样式。更多精彩请点击下方。
 ---
+

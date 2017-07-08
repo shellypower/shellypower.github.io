@@ -1,10 +1,10 @@
 # Site settings
-title: 天空和麦穗
+title: 当你途径我的盛放
 email: 191249310@qq.com
 url: https://shellypower.github.io
 description: 我是一个技术小白却很宅，依旧渴望来自生活的惊喜。
 keywords: 学习，分享
-skills: 目前没什么技术，慢慢学习ing
+skills: 不畏惧 不悲伤 不放弃
 meta_author: Shelly
 
 # Google webmaster tools
@@ -35,7 +35,7 @@ footer:
   copyright: shelly
   location: 位置
   social: 相关网页
-  credits: 座右铭
+  credits: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -56,7 +56,7 @@ address:
   - line: 犀浦校区
 
 # Credits content
-credits: '作最坏的打算，做最多的努力。'
+credits: '有缘的人会看到，懂的人会懂'
 
 # Build settings
 markdown: kramdown
